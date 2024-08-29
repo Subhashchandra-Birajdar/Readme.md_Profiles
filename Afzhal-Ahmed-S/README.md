@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Afzhal Ahmed S</h1>
+<h1 align="center">Hey 👋, I'm Subhash Birajdar </h1>
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Problem+Solver+by+nature;Java+Backend+Developer;Quick+and+a+Self+Learner&color=teal&center=true" />
 </div>
@@ -6,11 +6,11 @@
 <h3 align="center">A creative, passionate and minimalistic Java Back-End Developer keen in building real world scalable applications that can make this world a better place to live in.</h3>
 <h3 align="center">2 ⭐️ LeetCode</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afzhal-ahmed-s&label=Profile%20views&color=0e75b6&style=flat" alt="afzhal-ahmed-s" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhashchandra-Birajdar&label=Profile%20views&color=0e75b6&style=flat" alt="afzhal-ahmed-s" /> </p>
 
-- 🔭 I’m from **Coimbatore, Tamil Nadu**
+- 🔭 I’m from **My City, Maharastra**
   
-- 🌱 I’m currently working at **Noduco as a Junior backend developer, Remote work**
+- 🌱 I’m currently working at **as a Junior backend developer, Remote work**
 
 - 🌱 I’m currently learning and working in Java, SpringBoot, Hibernate, Gradle, unit test using Junit and Mockito, and Linux at work.
 
@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Java, Spring boot, and Data structures and Algorithms.**
 
-- 📫 Reach me at **writetoafzhalahmeds@gmail.com**
+- 📫 Reach me at **mygmail@gmail.com**
 
 - 📄 Know about my experiences from <a href="https://drive.google.com/file/d/1kenVWj3VuGcZ9-iWmy23zgT61H_9YN8H/view?usp=sharing" target="blank">My Resume</a>
 
@@ -42,7 +42,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
  <a href="https://leetcode.com/afzhalahmeds/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
  <a href="https://afzhal-ahmed-s.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-008000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="mailto:mail.writetoafzhalahmeds@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:mail.mygmail@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>  
 
@@ -75,16 +75,16 @@
  <br/>
  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,sts,notion)]()
  
-<!-- [![Afzhal Ahmed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=afzhal-ahmed-s&theme=tokyonight)](https://git.io/praveenscience) -->
+<!-- [![Subhashchandra-Birajdar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Subhashchandra-Birajdar&theme=tokyonight)](https://git.io/praveenscience) -->
 
-| ![Afzhal Ahmed S's github stats](https://github-readme-stats.vercel.app/api?username=afzhal-ahmed-s&show_icons=true&theme=tokyonight) | ![Afzhal Ahmed S GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afzhal-ahmed-s&theme=tokyonight) |
+| ![Subhashchandra-Birajdar's github stats](https://github-readme-stats.vercel.app/api?username=Subhashchandra-Birajdar&show_icons=true&theme=tokyonight) | ![Subhashchandra-Birajdar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Subhashchandra-Birajdar&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afzhal-ahmed-s&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=afzhal-ahmed-s&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashchandra-Birajdar&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Subhashchandra-Birajdar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afzhal-ahmed-s" alt="afzhal-ahmed-s" /></a> </p> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Subhashchandra-Birajdar" alt="Subhashchandra-Birajdar" /></a> </p> 
 
 
 
