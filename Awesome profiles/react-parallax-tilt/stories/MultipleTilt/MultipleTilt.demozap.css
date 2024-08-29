@@ -1,0 +1,12 @@
+.multiple-tilt {
+  display: flex;
+  flex-direction: row;
+
+  .col {
+    margin-right: 20px;
+
+    :first-child {
+      margin-bottom: 20px;
+    }
+  }
+}

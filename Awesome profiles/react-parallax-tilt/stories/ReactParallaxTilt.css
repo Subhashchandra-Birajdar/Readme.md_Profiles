@@ -1,0 +1,26 @@
+.root-story {
+  font-family: Arial, sans-serif;
+
+  .tab-demo.react-tabs__tab-panel--selected {
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+:root {
+  --default-stripe-bg-color: #077407;
+  --default-stripe-color: #015f01;
+}
+
+.background-stripes {
+  background: repeating-linear-gradient(
+    45deg,
+    var(--default-stripe-color),
+    var(--default-stripe-color) 35px,
+    var(--default-stripe-bg-color) 35px,
+    var(--default-stripe-bg-color) 70px
+  );
+}
