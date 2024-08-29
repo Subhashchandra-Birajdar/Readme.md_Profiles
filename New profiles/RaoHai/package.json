@@ -1,0 +1,27 @@
+{
+  "name": "raohai-github-profile",
+  "version": "1.0.0",
+  "description": "Prifle Repo",
+  "main": "index.js",
+  "scripts": {
+    "build": "ncc build src/webhook.js -o .functions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaoHai/RaoHai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaoHai/RaoHai/issues"
+  },
+  "homepage": "https://github.com/RaoHai/RaoHai#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.0.1"
+  },
+  "devDependencies": {
+    "@octokit/rest": "^18.0.1",
+    "@zeit/ncc": "^0.22.3"
+  }
+}
