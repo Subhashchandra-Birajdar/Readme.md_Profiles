@@ -4,19 +4,19 @@
 ## 🚀 About Me
 A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=koti79k&label=Profile%20views&color=0e75b6&style=flat" alt="koti79k" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subhashchandra-Birajdar&label=Profile%20views&color=0e75b6&style=flat" alt="koti79k" /> </p>
 <img src="https://user-images.githubusercontent.com/105915717/192617762-4a3e755e-e814-484b-a365-5d139d116bd1.gif" alt="Coding" align="right" width="40%"/>
-- 🔭 I’m currently a student at Masai **School, Bengaluru**
+- 🔭 I’m currently a student at not going **School, Bengaluru**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and data structure**
 
-- 👯 I’m looking to collaborate on **Interesting projects using core java**
+- 👯 I’m looking to collaborate on **Interesting projects using java and springboot and microservice projects**
 
-- 👨‍💻 All of my projects are available at [https://Koti79k.github.io/](https://Koti79k.github.io/)
+- 👨‍💻 All of my projects are available at [https://Subhashchandra-Birajdar.github.io/](https://Subhashchandra-Birajdar.github.io/)
 
 - 💬 Ask me about **coding and art because that's what fascinate me**
 
-- 📫 How to reach me **Koteswararao791212@gmail.com**
+- 📫 How to reach me **Subhashchandra-Birajdar@gmail.com**
 
 - ⚡ Fun fact **I think I am creative**
 
@@ -40,25 +40,25 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 <!-- <h3 align="left">Connect with me:</h3> -->
 <h2 align="left"><i>Connect with me:</i></h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/koteswararao-pathakoti-b8a377230/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:koteswararao791212@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://twitter.com/KOTESWARARAO791"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/Subhash-Birajdar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:Subhashchandra-Birajdar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://twitter.com/Subhashchandra-Birajdar"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </div>
 
 <br>
 <!-- <h2 align="center">📊 My Github Stats</h2>
 
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Koti79k&theme=indian-flag" alt="Koti" height="250px" width="45%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Koti79k&theme=flag-india&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhashchandra-Birajdar&theme=indian-flag" alt="Koti" height="250px" width="45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Subhashchandra-Birajdar&theme=flag-india&show_icons=true&count_private=true" alt="Github Stats" height="255px" width="45%"/>
 </div>
   
 </br>  
 
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koti79k&layout=default&langs_count=8&hide=&theme=indian-flag" alt="Koti" height="275px" width="30%"/>
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Koti79k&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashchandra-Birajdar&layout=default&langs_count=8&hide=&theme=indian-flag" alt="Koti" height="275px" width="30%"/>
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Subhashchandra-Birajdar&bg_color=ffffff&color=000080&line=138808&point=ff9933&area=true" height="275px" width="65%"/>
 </div> -->
 
 
@@ -66,12 +66,12 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <h2><i>📊 My GitHub Status</i></h2>
  <div align="right">
-<img alt="Koti's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Koti79k&theme=highcontrast&hide_border=true"/>
+<img alt="Subhashchandra-Birajdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Subhashchandra-Birajdar&theme=highcontrast&hide_border=true"/>
 </div>
 
-<!--  <p> <img align="left"  src="https://github-readme-stats.vercel.app/api?username=Koti79k&show_icons=true&locale=en&theme=dark" alt="Koti"  height="170" /></p> -->
+<!--  <p> <img align="left"  src="https://github-readme-stats.vercel.app/api?username=Subhashchandra-Birajdar&show_icons=true&locale=en&theme=dark" alt="Koti"  height="170" /></p> -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Koti79k&theme=highcontrast&show_icons=true&count_private=true" alt="Github Stats" height="170" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Subhashchandra-Birajdar&theme=highcontrast&show_icons=true&count_private=true" alt="Github Stats" height="170" />
 
 <br> <br><br> <br><br> <br>
 
@@ -79,12 +79,12 @@ A passionate JAVA Back-End Developer, Dedicated to developing robust application
 
 <!-- /*==========================================*/ -->
  <div align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=koti79k&show_icons=true&locale=en&layout=compact&theme=dark" alt="Koti" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Subhashchandra-Birajdar&show_icons=true&locale=en&layout=compact&theme=dark" alt="Koti" height="200" />
 </div>
 
 <div>
   <br> <br>
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Koti79k&theme=xcode" height ="300"/> -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Subhashchandra-Birajdar&theme=xcode" height ="300"/> -->
 </div>
 
 
