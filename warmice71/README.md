@@ -202,7 +202,7 @@
 To contact me.
 
 
-![](https://github.com/seniorcoder72/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
+![](https://github.com/Subhashchandra-Birajdar/seniorcoder72.github.io/blob/master/screenshots/screenshot.gif?raw=true)
 
 <table>
   <tr>
@@ -221,7 +221,7 @@ To contact me.
 
     </td>
     <td>    
-      <a href="http://au-portfolio.great-site.net"><img src="https://github.com/seniorcoder72/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
+      <a href="http://au-portfolio.great-site.net"><img src="https://github.com/Subhashchandra-Birajdar/dynamic-post-nextjs/blob/master/public/profile-logo.png"/></a>
       https://trademarktoday-nextjs.vercel.app <br/>
       https://trademarktoday-nextjs-rbxk.vercel.app
     </td>
@@ -272,7 +272,7 @@ To contact me.
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)    
+![Profile views counter](https://komarev.com/ghpvc/?username=Subhashchandra-Birajdar&&style=flat-square)    
 
 <br/>  
 
@@ -373,13 +373,13 @@ To contact me.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorcoder72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=seniorcoder72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Subhashchandra-Birajdar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=seniorcoder72&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Subhashchandra-Birajdar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
